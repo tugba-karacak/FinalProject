@@ -1,0 +1,3 @@
+C:\Users\TugbaKaracak\source\repos\FinalProject\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
+C:\Users\TugbaKaracak\source\repos\FinalProject\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs
+C:\Users\TugbaKaracak\source\repos\FinalProject\Business\obj\Debug\netstandard2.1\Business.csproj.CoreCompileInputs.cache

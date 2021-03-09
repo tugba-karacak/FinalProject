@@ -1,0 +1,3 @@
+C:\Users\TugbaKaracak\source\repos\FinalProject\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+C:\Users\TugbaKaracak\source\repos\FinalProject\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+C:\Users\TugbaKaracak\source\repos\FinalProject\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache

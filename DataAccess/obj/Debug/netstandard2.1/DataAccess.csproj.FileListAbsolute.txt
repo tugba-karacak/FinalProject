@@ -1,0 +1,4 @@
+C:\Users\TugbaKaracak\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\TugbaKaracak\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\TugbaKaracak\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfo.cs
+C:\Users\TugbaKaracak\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.CoreCompileInputs.cache
